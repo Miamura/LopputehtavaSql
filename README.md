@@ -1,6 +1,8 @@
+This is the sql schema of a jewellery shop. First of all we need to know how gold and diamond graded;
+
 How gold is graded :
 
-Karat Grading: This indicates the purity of gold and is represented by "K" or "kt." The higher the karat, the purer the gold. Common karat grades are:
+Karat Grading: This indicates the purity of gold and is represented by "K" or "kt." The higher the karat, the purer the gold. Common karat grades are:(I don't know why it sends without starting a line.)
 
 24K (24 Karat): 99.9% pure gold (purest form of gold)
 22K (22 Karat): 91.6% pure gold
@@ -42,3 +44,5 @@ VS1 & VS2 (Very Slightly Included): Minor inclusions
 SI1 & SI2 (Slightly Included): Noticeable inclusions
 I1, I2, I3 (Included): Inclusions visible to the naked eye
 These qualities are usually shown on a diamond certificate or grading report, which indicates the diamond’s overall quality.
+
+
